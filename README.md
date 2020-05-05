@@ -17,6 +17,9 @@ Using this intel to help them better target their clients’ lobbying efforts in
   - RDD data manipulation, flatmap and reduce to create annual corpora of frequently occurring words
   - NLTK stopword removal
   - Wordcloud to visualise results
+  
+![cloud](https://user-images.githubusercontent.com/55634972/81058694-e2534c00-8ec6-11ea-9f04-471a6c1ab31b.png)
+  
 3. Focus on the main themes, scoring active members’ tweets on their sentiment on these issues:
   - Spark-NLP to confirm main themes from previous step
   - TextBlob for sentiment scoring
@@ -37,3 +40,5 @@ For clients who opposed ACA then members like Mike Lee could serve as a powerful
 
 ### 3. Some themes will emerge as more topical in this time periods
 Proved: We found Healthcare was most important issue in this period.
+
+![cluster](https://user-images.githubusercontent.com/55634972/81058702-e41d0f80-8ec6-11ea-85df-b9259fc16bf0.png)
