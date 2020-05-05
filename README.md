@@ -6,9 +6,9 @@ Helping Lobbyists4America understand relationships between congress members bett
 Using this intel to help them better target their clients’ lobbying efforts in Congress.
 
 ## Hypotheses:
-- There will be clusters of like-minded politicians that can be drawn largely along party lines.
-- There will be centres of influence (loud / influential voices) in these clusters that clients can target.
-- Some themes will emerge as more topical in this time period
+1. There will be clusters of like-minded politicians that can be drawn largely along party lines.
+2. There will be centres of influence (loud / influential voices) in these clusters that clients can target.
+3. Some themes will emerge as more topical in this time period
 
 ## Approach:
 1. Exploratory analysis on over 1m tweets from members of Congress that has been collected:
@@ -27,13 +27,13 @@ Using this intel to help them better target their clients’ lobbying efforts in
 
 ## Hypotheses Results:
 
-### There will be clusters of like-minded politicians that can be drawn largely along party lines.
+### 1. There will be clusters of like-minded politicians that can be drawn largely along party lines.
 Proved: This was clear to see from those who referred to healthcare reforms as ACA vs those who called it Obamacare. Also clear to see from the clusters that emerged.
 
-### There will be centres of influence (loud / influential voices) in these clusters that clients can target.
+### 2. There will be centres of influence (loud / influential voices) in these clusters that clients can target.
 Proved: For example Cory Booker and Bernie Sanders were the members with the highest number of followers within their respective clusters.
 For clients that want to influence this section of members, these influential Senators would be the highest value advocates of their messaging.
 For clients who opposed ACA then members like Mike Lee could serve as a powerful voice.
 
-### Some themes will emerge as more topical in this time periods
+### 3. Some themes will emerge as more topical in this time periods
 Proved: We found Healthcare was most important issue in this period.
